@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Student of analytic and development of system<br><br>- IT technician<br><br>- Always learning</p>
+<p align="left">- Student of System Analysis and Development <br><br>- IT technician<br><br>- Always learning</p>
 
 ###
 
